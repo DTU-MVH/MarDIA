@@ -2,9 +2,9 @@
 
 ## Script Information
 
-**Script Name**: mzML Processing Script
+Script Name: MarDIA_*
 
-**Author**: Martin Vennick Haugbølle
+Author: Martin Vennick Haugbølle
 
 **Description**: This script processes mzML files to detect features, filter peaks, and correlate fragments to precursors using Pearson correlation. The final output is saved as an mzML file.
 
